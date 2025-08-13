@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {
+      "title": "X-ray Basics",
+      "image": "radiology/xray.png",
+      "details_file": "radiology/details_xray.json"
+    },
+    {
+      "title": "CT Scan",
+      "image": "radiology/ct_scan.png",
+      "details_file": "radiology/details_ct.json"
+    }
+  ]
+}

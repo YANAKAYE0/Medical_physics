@@ -1,0 +1,14 @@
+{
+  "cards": [
+    {
+      "title": "Radiology",
+      "image": "radiology/xray.png",
+      "data_file": "radiology/radiology_main.json"
+    },
+    {
+      "title": "Ultrasound",
+      "image": "ultrasound/us_physics.png",
+      "data_file": "ultrasound/ultrasound_main.json"
+    }
+  ]
+}
