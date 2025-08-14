@@ -2,7 +2,7 @@
   "cards": [
     {
       "title": "Radiology",
-      "image": "radiology/xray.png",
+      "image": "https://yanakaye0.github.io/Medical_physics/radiology/xray.png",
       "data_file": "radiology/radiology_main.json"
     },
     {
