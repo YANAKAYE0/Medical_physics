@@ -2,7 +2,7 @@
   "cards": [
     {
       "title": "Radiology",
-      "image": "xray.png",
+      "image": "radiology/xray.png",
       "data_file": "radiology/radiology_main.json"
     },
     {
