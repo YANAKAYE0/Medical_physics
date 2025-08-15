@@ -9,12 +9,12 @@
       "title": "Ultrasound",
       "image": "https://yanakaye0.github.io/Medical_physics/ultrasound/us_physics.png",
       "data_file": "ultrasound/ultrasound_main.json"
-    }
+    },
     {
       "title": "Radiotherapy",
       "image": "https://yanakaye0.github.io/Medical_physics/radiology/xray.png",
       "data_file": "radiology/radiology_main.json"
-    },
+    }
     
   ]
 }
