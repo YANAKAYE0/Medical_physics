@@ -2,12 +2,12 @@
   "cards": [
     {
       "title": "X-ray Basics",
-      "image": "radiology/xray.png",
+      "image": "https://yanakaye0.github.io/Medical_physics/radiology/xray.png",
       "details_file": "details_xray.json"
     },
     {
       "title": "CT Scan",
-      "image": "radiology/ct_scan.png",
+      "image": "https://yanakaye0.github.io/Medical_physics/radiology/ct_scan.png",
       "details_file": "radiology/details_ct.json"
     }
   ]
