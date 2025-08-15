@@ -2,12 +2,12 @@
   "cards": [
     {
       "title": "US Physics",
-      "image": "ultrasound/us_physics.png",
+      "image": "https://yanakaye0.github.io/Medical_physics/ultrasound/us_physics.png",
       "details_file": "ultrasound/details_us_physics.json"
     },
     {
       "title": "Doppler",
-      "image": "ultrasound/doppler.png",
+      "image": "https://yanakaye0.github.io/Medical_physics/ultrasound/doppler.png",
       "details_file": "ultrasound/details_doppler.json"
     }
   ]
