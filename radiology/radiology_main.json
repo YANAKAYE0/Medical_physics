@@ -3,7 +3,7 @@
     {
       "title": "X-ray Basics",
       "image": "https://yanakaye0.github.io/Medical_physics/radiology/xray.png",
-      "details_file": "details_xray.json"
+      "details_file": "radiology/details_xray.json"
     },
     {
       "title": "CT Scan",
