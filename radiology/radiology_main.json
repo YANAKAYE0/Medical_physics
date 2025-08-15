@@ -3,12 +3,12 @@
     {
       "title": "X-ray Basics",
       "image": "https://yanakaye0.github.io/Medical_physics/radiology/xray.png",
-      "details_file": "https://raw.githubusercontent.com/YANAKAYE0/Medical_physics/refs/heads/main/radiology/details_xray.json"
+      "details_file": "https://raw.githubusercontent.com/YanaKaYe0/Medical_physics/main/radiology/details_xray.json"
     },
     {
       "title": "CT Scan",
       "image": "https://yanakaye0.github.io/Medical_physics/radiology/ct_scan.png",
-      "details_file": "https://yanakaye0.github.io/Medical_physics/radiology/details_ct.json"
+      "details_file": "https://raw.githubusercontent.com/YanaKaYe0/Medical_physics/main/radiology/details_ct.json"
     }
   ]
 }
